@@ -1,7 +1,5 @@
 <h3 align="left"> Oie, sou a Mari ✨ </h3> 
-
-  
-<img align='left'  alt='Mari-pic' height='170' width='170' src='https://i.picasion.com/pic92/af95c1f1da6c203046a645e238b86108.gif'>                   
+               
  
  🗨️ Ela/Dela                                                                                                                   
  🔭 Psicológa atuando em recrutamento & seleção                                               
@@ -13,6 +11,7 @@
 ##
 
 <div>
+  <img align='right'  alt='Mari-pic' height='200' width='200' src='https://i.picasion.com/pic92/af95c1f1da6c203046a645e238b86108.gif'>    
   <img align='left' heigth='180cm' src= 'https://github-readme-stats.vercel.app/api?username=marianadsa&show_icons=true&theme=darcula' />
   <img heigth='180cm' src= 'https://github-readme-stats.vercel.app/api/top-langs/?username=marianadsa&layout=compact&langs_count=16&theme=darcula' />
 </div>
