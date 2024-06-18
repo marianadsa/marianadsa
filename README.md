@@ -1,11 +1,10 @@
-<h3 align="left"> Oie, sou a Mari ✨ </h3> 
-
- 🗨️ Ela/Dela                                                                                                                   
- 🔭 Psicológa atuando em recrutamento & seleção                                               
- 🎯 Buscando realocação no mercado de trabalho                                   
- 🌱 Estudando análise de dados em Python pela {reprograma}                                                                 
- 👩🏽‍💻 Pretendo trabalhar com People Analytics                                                                                 
- 🌍 Prezo e contribuo por um mundo mais incluso
+<h2 align="left"> Oie, sou a Mari ✨ </h3> 
+                                                                                                                
+ #### 🔭 Psicológa atuando em recrutamento & seleção                                               
+ #### 🎯 Buscando realocação no mercado de trabalho                                   
+ #### 🌱 Estudando análise de dados em Python pela {reprograma}                                                                 
+ #### 👩🏽‍💻 Pretendo trabalhar com People Analytics                                                                                 
+ #### 🌍 Prezo e contribuo por um mundo mais incluso
 
 ##
 
