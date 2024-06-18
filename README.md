@@ -10,7 +10,7 @@
 
 <div>
   <img align='left' heigth='180cm' src= 'https://github-readme-stats.vercel.app/api?username=marianadsa&show_icons=true&theme=catppuccin_mocha' />
-  <img heigth='180cm' src= 'https://github-readme-stats.vercel.app/api/top-langs/?username=marianadsa&layout=compact&langs_count=16&theme=catppuccin_mocha' />
+  <img heigth='180cm' src= 'https://github-readme-stats.vercel.app/api/top-langs/?username=marianadsa&layout=compact&theme=catppuccin_mocha' />
 </div>
 
 <div>	
