@@ -19,8 +19,9 @@
 </div>
 
 <div>	
-  <img align='center' alt='Mari-Git' height='50' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />      
-  <img align='center' alt='Mari-Python' height='50' width='50' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg' />
+ <img align='center' alt='Mari-Python' height='50' width='50' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg' />   
+ <img align='center' alt='Mari-Vscode' height='50' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+ <img align='center' alt='Mari-Git' height='50' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />   
 </div>
 
 ##
