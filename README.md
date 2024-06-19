@@ -26,7 +26,7 @@
 ##
 
 <div>
-  <a href= 'https://www.linkedin.com/in/marianadasilvaaraujo/' target='_blank'> <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' >
+  <a href= '[https://www.linkedin.com/in/marianadasilvaaraujo/]' target='_blank'> <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' >
   <a href= '[https://twitter.com/mari18213/]' target='_blank'> <img src='https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white' >
-  <a href= 'https://open.spotify.com/user/mari18213?si=43677d8bf2f84098'> <img src='https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white'>
+  <a href= '[https://open.spotify.com/user/mari18213?si=43677d8bf2f84098]'> <img src='https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white'>
 </div>
