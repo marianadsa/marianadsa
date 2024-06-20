@@ -1,9 +1,4 @@
 
-
-
-
- 
-
 <h2 align="left"> Oie, sou a Mari ✨ </h2> 
 
 <img align='right' height='210cm' src= 'https://shortlurl.com/5fqe' />
@@ -16,22 +11,16 @@
 
 ##
 
-
 <div>
   <img align='left' heigth='180cm' src= 'https://github-readme-stats.vercel.app/api?username=marianadsa&show_icons=true&theme=catppuccin_mocha' />
   <img heigth='180cm' src= 'https://github-readme-stats.vercel.app/api/top-langs/?username=marianadsa&layout=compact&langs_count=6&theme=catppuccin_mocha' />
 </div>
-
 
 <div>	
  <img align='center' alt='Mari-Python' height='50' width='50' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg' />   
  <img align='center' alt='Mari-Vscode' height='50' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
  <img align='center' alt='Mari-Git' height='50' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />   
 </div>
-
-
-
-
 
 ##
 
