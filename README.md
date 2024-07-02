@@ -3,8 +3,7 @@
 
 <img align='right' height='210cm' src= 'https://shortlurl.com/5fqe' />
                                                                                                                
- #### 🔭 Psicológa atuando em recrutamento & seleção                                               
- #### 🎯 Buscando realocação no mercado de trabalho                                   
+ #### 🔭 Psicológa atuando em recrutamento & seleção                                                                           
  #### 🌱 Estudando análise de dados em Python pela {reprograma}                                                                 
  #### 👩🏽‍💻 Pretendo trabalhar com People Analytics                                                                                 
  #### 🌍 Prezo e contribuo por um mundo mais incluso
